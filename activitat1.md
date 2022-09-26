@@ -35,14 +35,15 @@ A més a més podrem usar aquest sistema per passar arxius de forma més fàcil 
 
 ## Presupost google drive tarifa empresa
 
-Espai per usuari
+Espai per usuari: 
+Business Plus 2TB
 
-Usuaris
-Preu mensual per usuari 
-Business Plus
-2TB
-2
-9,36 € 
+Usuaris 2
+
+Preu mensual per usuari 9,36 € 
+
+
+
 
 Preu mensual total
 18,72 €
@@ -53,19 +54,20 @@ Preu anual total
 
 
 
-Presupost google drive tarifa personal
+## Presupost google drive tarifa personal
 
-Espai per usuari
-Usuaris
+Espai per usuari: Back up 2TB , Profesor 200gb
+
+Usuaris 2 
+
 Preu mensual per usuari
-Back up
-2TB
-1
-9,36 €
-Profesor
-200gb
-1
-2,99 €
+Profesor 2,99 €
+
+
+Preu mensual per usuari
+Back up 9,36 €
+
+Preu anual 148,20 €
 
 
 
@@ -88,16 +90,8 @@ Profesor
 
 
 
-Preu mensual total
-12,35 €
 
 
-
-
-
-
-Preu anual total
-148,20 €
 
 
 
