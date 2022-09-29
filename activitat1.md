@@ -71,7 +71,7 @@ Preu anual 148,20 €
 
 ## Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
 
-
+![Captura](Captura de pantalla de 2022-09-29 16-35-27.png)
 
 
 
