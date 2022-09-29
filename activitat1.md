@@ -69,6 +69,9 @@ Back up 9,36 €
 
 Preu anual 148,20 €
 
+## Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
+
+
 
 
 
