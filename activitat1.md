@@ -71,7 +71,39 @@ Preu anual 148,20 €
 
 ## Creació de les unitats compartides BACKUP i documents i permisos assignats a cada tipus d’usuari/a.
 
-![Captura](Captura de pantalla de 2022-09-29 16-35-27.png)
+![Captura](drive10.png)
+
+
+A la carpeta de Backup els professors domés tindran accés a veure els arxius. Després a la carpeta de documents feta per als professors i alumnes, donariem permisos de editor als professors i lector als alumnes
+
+
+## Exemples d’ús de fer un backup per part de l’administrador/a.
+
+El primer que hauriem de fer seria connectar la conta de google drive a la maquina que estem usant.
+
+Anant a “Settings” o “configuració” (Depen del idioma del nostre SO) i al apartat de contes online,
+podrem connectar la nostra conta de google amb el SO.
+
+![Captura](dive4.png)             
+
+
+![Captura](drive2.png)      
+
+![Captura](drive5.png)  
+
+![Captura](drive6.png)   
+
+
+## Comproveu si un usuari/a pot eliminar sense voler algun document
+
+![Captura](drive7.png)   
+
+Al no tenir permisos no pot esborrar cap document, al contrari que amb la meva conta de creador.
+
+
+        
+
+
 
 
 
